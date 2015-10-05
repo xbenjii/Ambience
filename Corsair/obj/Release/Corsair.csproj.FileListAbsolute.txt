@@ -1,0 +1,16 @@
+c:\users\ben\documents\visual studio 2015\Projects\Corsair\Corsair\bin\Release\Corsair.exe.config
+c:\users\ben\documents\visual studio 2015\Projects\Corsair\Corsair\obj\Release\Corsair.csprojResolveAssemblyReference.cache
+c:\users\ben\documents\visual studio 2015\Projects\Corsair\Corsair\obj\Release\Corsair.Main.resources
+c:\users\ben\documents\visual studio 2015\Projects\Corsair\Corsair\obj\Release\Corsair.Properties.Resources.resources
+c:\users\ben\documents\visual studio 2015\Projects\Corsair\Corsair\obj\Release\Corsair.csproj.GenerateResource.Cache
+c:\users\ben\documents\visual studio 2015\Projects\Corsair\Corsair\bin\Release\Corsair.exe
+c:\users\ben\documents\visual studio 2015\Projects\Corsair\Corsair\bin\Release\Corsair.pdb
+c:\users\ben\documents\visual studio 2015\Projects\Corsair\Corsair\bin\Release\CUE.NET.dll
+c:\users\ben\documents\visual studio 2015\Projects\Corsair\Corsair\bin\Release\SharpDX.Direct3D11.dll
+c:\users\ben\documents\visual studio 2015\Projects\Corsair\Corsair\bin\Release\SharpDX.dll
+c:\users\ben\documents\visual studio 2015\Projects\Corsair\Corsair\bin\Release\SharpDX.DXGI.dll
+c:\users\ben\documents\visual studio 2015\Projects\Corsair\Corsair\bin\Release\SharpDX.xml
+c:\users\ben\documents\visual studio 2015\Projects\Corsair\Corsair\bin\Release\SharpDX.Direct3D11.xml
+c:\users\ben\documents\visual studio 2015\Projects\Corsair\Corsair\bin\Release\SharpDX.DXGI.xml
+c:\users\ben\documents\visual studio 2015\Projects\Corsair\Corsair\obj\Release\Corsair.exe
+c:\users\ben\documents\visual studio 2015\Projects\Corsair\Corsair\obj\Release\Corsair.pdb
