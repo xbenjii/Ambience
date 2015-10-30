@@ -1,0 +1,16 @@
+C:\cs\Ambience\Corsair\bin\x64\Debug\Corsair.exe.config
+C:\cs\Ambience\Corsair\bin\x64\Debug\Corsair.exe
+C:\cs\Ambience\Corsair\bin\x64\Debug\Corsair.pdb
+C:\cs\Ambience\Corsair\bin\x64\Debug\CUE.NET.dll
+C:\cs\Ambience\Corsair\bin\x64\Debug\SharpDX.Direct3D11.dll
+C:\cs\Ambience\Corsair\bin\x64\Debug\SharpDX.dll
+C:\cs\Ambience\Corsair\bin\x64\Debug\SharpDX.DXGI.dll
+C:\cs\Ambience\Corsair\bin\x64\Debug\SharpDX.xml
+C:\cs\Ambience\Corsair\bin\x64\Debug\SharpDX.Direct3D11.xml
+C:\cs\Ambience\Corsair\bin\x64\Debug\SharpDX.DXGI.xml
+C:\cs\Ambience\Corsair\obj\x64\Debug\Corsair.csprojResolveAssemblyReference.cache
+C:\cs\Ambience\Corsair\obj\x64\Debug\Corsair.Main.resources
+C:\cs\Ambience\Corsair\obj\x64\Debug\Corsair.Properties.Resources.resources
+C:\cs\Ambience\Corsair\obj\x64\Debug\Corsair.csproj.GenerateResource.Cache
+C:\cs\Ambience\Corsair\obj\x64\Debug\Corsair.exe
+C:\cs\Ambience\Corsair\obj\x64\Debug\Corsair.pdb

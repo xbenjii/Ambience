@@ -21,13 +21,21 @@ namespace Corsair
         public Main()
         {
             InitializeComponent();
-            CueSDK.Initialize();
+            try
+            {
+                CueSDK.Initialize();
+            }
+            catch (CUE.NET.Exceptions.CUEException ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
             keyboard = CueSDK.KeyboardSDK;
+            timer1.Interval = 150;
             timer1.Start();
         }
         private void timer1_Tick(object sender, EventArgs e)
         {
-            var image = screen.GetFrame(100);
+            var image = screen.GetFrame(1000);
             var dominance = CalculateColor(image.NewPixels);
             using(Graphics gfx = Graphics.FromImage(preview))
             {
